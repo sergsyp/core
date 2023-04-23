@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="855a9da7-9d9c-43b1-b756-06256b4fbe16">
+  <name>Ядро</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ядро</value>
+  </synonym>
+  <objectBelonging>Adopted</objectBelonging>
+  <extension xsi:type="mdclassExtension:ConfigurationExtension"/>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="4159d77b-9b4e-40a6-b266-52102990971b"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="d7166c43-7454-407f-9005-482597242056"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="15f64ee8-c1f8-4085-aafa-390e41b63ae9"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="fa81838a-da66-4e5b-b7de-44c2c90d0e63"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="be299076-643d-4bb3-b9de-016d04df03ce"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="2b219bea-3f80-4637-84ca-fa7b8dbece39"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="2fe9c3ac-de0a-4f56-9227-ce81e4f3a18d"/>
+  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
+  <namePrefix>Ядро_</namePrefix>
+  <configurationExtensionCompatibilityMode>8.3.14</configurationExtensionCompatibilityMode>
+  <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
+  <scriptVariant>Russian</scriptVariant>
+  <version>1.0.0.1</version>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <languages uuid="0af36868-81e5-416b-a1ec-9502446b0507">
+    <name>Русский</name>
+    <objectBelonging>Adopted</objectBelonging>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
+  </languages>
+  <commonPictures>CommonPicture.Ядро_Обновить</commonPictures>
+  <commonPictures>CommonPicture.Ядро_Синхронизировать</commonPictures>
+  <commonPictures>CommonPicture.Ядро_Передать</commonPictures>
+  <commonPictures>CommonPicture.Ядро_Магазин</commonPictures>
+  <commonPictures>CommonPicture.Ядро_Поиск</commonPictures>
+  <commonPictures>CommonPicture.Ядро_Плюс</commonPictures>
+  <roles>Role.Ядро_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.Ядро_Сервер</commonModules>
+  <catalogs>Catalog.Ядро_Расширения</catalogs>
+</mdclass:Configuration>
